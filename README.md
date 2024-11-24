@@ -12,4 +12,4 @@ This is the menu for Lydia's birthday party. It includes a variety of delicious 
 1. Open the `index.html` file in your browser to view the menu.
 
 ### Credits
-- Created by: Your Name
+- Created by: Orestis Neophytou
